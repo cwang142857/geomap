@@ -22,7 +22,7 @@ def url_gen(access_token, search_text='',types_text='',next_token=''):
     return url
 def main():
     # repalce with user TOKEN
-    token = 'AIzaSyAeTvcCLp0rIO9OM2SNxPDmxHE2g-5mD2I' #'TOKEN HERE' 
+    token = 'GOOGLE MAP API TOKEN HERE' 
     # input parameters
     names=["mcdonald's","shake shack","chipotle mexican grill"] # name of the POIs
     city='new york'
